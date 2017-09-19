@@ -13,3 +13,9 @@
 2. Customize o admin do Django a fim de listar os imóveis cadastrados com o endereço e um thumbnail (150 x 150px). É preferível que não seja possível inserir ou editar dados dentro do admin.
 
 3. As telas de listagem precisam possuir um campo de busca por endereço e sugerir imóveis que se encontrem nas proximidades do mesmo.
+
+### Documentação
+
+> Diagrama
+
+![Imagem do diagrama](diagram.png)
